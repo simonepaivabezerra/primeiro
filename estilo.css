@@ -1,0 +1,19 @@
+html{
+    margin: auto;
+    background-color: blue;
+}
+    h4{
+text-align: center;
+border: 2px rgb(27, 25, 25);
+font-size: 50px;
+text-align: center;
+    }
+    img{
+        width: 75%;
+        border: 1px;
+    }
+    #titulo{
+        color: rgb(3, 3, 59);
+        padding-top: 5%;
+        font-size: 60px;
+    }
